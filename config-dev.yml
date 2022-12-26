@@ -1,1 +1,3 @@
+server:
+  port: 3355
 config: test-config-demo-version is 777
